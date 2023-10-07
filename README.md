@@ -6,4 +6,4 @@
 │   └── pages/
 │       └── index.astro
 └── package.json
-``
+```
